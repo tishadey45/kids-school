@@ -1,0 +1,38 @@
+.max-width{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.navbar-section{
+    border: 1px solid red;
+}
+
+.logo-title{
+    /* color: red; */
+    /* justify-content: center; */
+    display: flex;
+    /* border: 1px solid red; */
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.text-item{
+    list-style: none;
+    display: flex;
+    /* text-align: center; */
+    /* justify-content: center; */
+    gap: 60px;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    /* flex-direction: row; */
+}
+.text{
+    /* text-align: center; */
+    align-items: center;
+}
+/* .item-one{
+  align-items: center;  
+} */
