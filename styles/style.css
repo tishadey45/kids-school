@@ -77,3 +77,64 @@ text-align: left;;
     width: 190px;
     height: 50px;
 }
+
+
+
+.banner{
+    display: flex;
+}
+.banner-content{
+    /* justify-content: center; */
+    flex-direction: column;
+    /* justify-content: flex-start; */
+    /* display: flex; */
+    gap: 24px;
+}
+
+
+/* .main-section{
+    background-image: url(assets/bg.png);
+} */
+ .standard-curriculum{
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+    
+
+ }
+ /* .curriculum-content{
+    display: flex;
+ } */
+  /* .curriculum-content{
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  } */
+ /* .curriculum-title{
+    align-items: center;
+    text-align: center;
+    display: flex;
+ } */
+ .text-two{
+    text-align: center;
+ }
+ /* .curriculum-content{
+    text-align: center;
+   
+ }
+ .team{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .part-one{
+ text-align: center;
+ } */
+
+  .curriculum-content{
+    display: flex;
+    justify-content: space-between;
+    
+  }
